@@ -1,6 +1,6 @@
 The **Course Management System** is a **Laravel-based web application** with **Role-Based Access Control (RBAC)**, allowing **Admins, Trainers, and Trainees** to manage courses efficiently. It features **CRUD operations, search, pagination, and validation**, providing a scalable solution for course management.  
 
----
+--- 
 
 ### **Tools and Technologies Used**  
 
